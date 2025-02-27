@@ -1,2 +1,9 @@
 # requirements.txt
-snowflake-connector-python
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+streamlit-option-menu
+
+
